@@ -6,4 +6,4 @@ Question Link
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/A%20_Frog1%20.cpp)
  - [B - Frog 2 Question](https://atcoder.jp/contests/dp/tasks/dp_b)
     
- [Solution]()
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/B%20_%20Frog2%20.cpp)
