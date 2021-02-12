@@ -10,4 +10,10 @@ Question Link
   - [C - Vacation Question](https://atcoder.jp/contests/dp/tasks/dp_c)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/C%20_Vacation.cpp)
+ - [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/D%20_Knapsack1.cpp)
+ - [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/D%20_Knapsack2.cpp)
  
