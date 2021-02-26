@@ -15,5 +15,5 @@ Question Link
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/D%20_Knapsack1.cpp)
  - [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
     
- [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/D%20_Knapsack2.cpp)
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/E%20_Knapsack2.cpp)
  
