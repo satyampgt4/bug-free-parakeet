@@ -16,4 +16,7 @@ Question Link
  - [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/E%20_Knapsack2.cpp)
+ - [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/F_-%20LCS.cpp)
  
