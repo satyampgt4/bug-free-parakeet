@@ -19,6 +19,9 @@ Question Link
  - [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/F_-%20LCS.cpp)
+ - [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_g)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/G%20_Longest_Path.cpp)
  - [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/H%20_Grid%201.cpp)
