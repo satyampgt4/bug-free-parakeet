@@ -28,4 +28,7 @@ Question Link
  - [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/K%20_Stones.cpp)
+  - [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/L%20_Deque.cpp)
  
