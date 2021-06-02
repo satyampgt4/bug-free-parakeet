@@ -31,4 +31,7 @@ Question Link
   - [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/L%20_Deque.cpp)
+ - [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/M%20_Candies.cpp)
  
