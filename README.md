@@ -34,4 +34,7 @@ Question Link
  - [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/M%20_Candies.cpp)
+ - [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/N%20_Slimes.cpp)
  
