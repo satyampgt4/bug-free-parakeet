@@ -37,4 +37,7 @@ Question Link
  - [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/N%20_Slimes.cpp)
+ - [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/O%20_Matching.cpp)
  
