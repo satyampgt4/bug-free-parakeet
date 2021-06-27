@@ -40,4 +40,7 @@ Question Link
  - [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/O%20_Matching.cpp)
+  - [P -_Independent_Set](https://atcoder.jp/contests/dp/tasks/dp_p)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/P%20_Independent_Set.cpp)
  
