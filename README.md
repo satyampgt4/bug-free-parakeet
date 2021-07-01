@@ -25,7 +25,10 @@ Question Link
  - [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/H%20_Grid%201.cpp)
- - [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)
+ - [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
+    
+ [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/I%20_Coins.cpp)
+  - [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)
     
  [Solution](https://github.com/satyampgt4/dynamic-programing/blob/main/K%20_Stones.cpp)
   - [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l)
